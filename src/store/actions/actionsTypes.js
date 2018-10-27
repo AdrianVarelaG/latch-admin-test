@@ -1,0 +1,7 @@
+/*SAGAS Actions */
+export const AUTH_CHECK_STATE = "AUTH_CHECK_STATE";
+export const AUTH_INITIATE_LOGOUT = "AUTH_INITIATE_LOGOUT";
+
+/** Reducers */
+export const AUTH_LOGOUT_SUCCESS = "AUTH_LOGOUT_SUCCESS";
+export const AUTH_LOGOUT = "AUTH_LOGOUT";
